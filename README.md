@@ -1,4 +1,4 @@
-# Hi there, I'm Ashwani Annad - aka ashulute <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Ashwani Annad - aka ashulute <img width="20px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=116836552">
 
