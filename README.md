@@ -84,7 +84,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;This+is+Ashwani+Anand;AI%2FML+enthusiast;building+a+better+future;one+code+line+at+a+time)](https://git.io/typing-svg)
 
-============================================================================================
+========================================================================================
 
 AI/ML Enthusiast
 ----------------
