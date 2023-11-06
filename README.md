@@ -1,6 +1,12 @@
 # Hi there, I'm Ashwani Annad - aka ashulute <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=#116836552">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ashwani+Anand, a third-year AIML student with a passion for developing intelligent and interactive systems.;Nice+to+meet+you!&center=true&size=30&colors=%23ffffff,%23000000,&interactivity=true">
+  </a>
+</h1>
 
 ## AIML student passionate about developing intelligent and interactive systems  
 
