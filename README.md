@@ -91,7 +91,7 @@ AI/ML Enthusiast
 
 I'm a passionate machine learning enthusiast and creative coder who crafts innovative ML projects that blend technical expertise with artistic flair. My theatrical acting and mobile photography experience give me a unique perspective that I weave into my work, creating compelling and impactful experiences.
 
-* 🌍  I'm based in Bengaluru, Karnataka
+* 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [ashwani.anand@outlook.com](mailto:ashwani.anand@outlook.com)
 * 🧠  I'm learning DSA with Python
 * 🤝  I'm open to collaborating on AI/ML projects
