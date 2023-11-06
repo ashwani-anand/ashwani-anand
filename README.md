@@ -80,9 +80,9 @@
 [linkedin]: https://www.linkedin.com/in/ashwanianandofficialpage
 --->
 
-img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=116836552">
+img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=116836552](https://vbr.wocr.tk/badge?page_id=116836552)">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;This+is+Ashwani+Anand;AI%2FML+enthusiast;building+a+better+future;one+code+line+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=35&pause=1000&center=true&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;This+is+Ashwani+Anand;AI%2FML+enthusiast;building+a+better+future;one+code+line+at+a+time)](https://git.io/typing-svg)
 
 =====================================================================================================================================
 
@@ -109,7 +109,6 @@ I'm a passionate machine learning enthusiast and creative coder who crafts innov
 
 <p align="left"> <a href="https://www.github.com/itsashwanianand" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ashwanianandofficialpage" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
