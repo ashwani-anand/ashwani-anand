@@ -80,7 +80,10 @@
 [linkedin]: https://www.linkedin.com/in/ashwanianandofficialpage
 --->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashwani Anand
+img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=116836552">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;This+is+Ashwani+Anand;AI%2FML+enthusiast;building+a+better+future;one+code+line+at+a+time)](https://git.io/typing-svg)
+
 =====================================================================================================================================
 
 AI/ML Enthusiast
@@ -113,7 +116,3 @@ I'm a passionate machine learning enthusiast and creative coder who crafts innov
 <a href="http://www.github.com/itsashwanianand"><img src="https://github-readme-stats.vercel.app/api?username=itsashwanianand&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="itsashwanianand's GitHub stats" /></a>
 
 <a href="https://github.com/itsashwanianand" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsashwanianand&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/itsashwanianand/Driver-Fatigue-Monitoring" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itsashwanianand&repo=Driver-Fatigue-Monitoring&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/itsashwanianand/Adventure-Trip-Planning-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itsashwanianand&repo=Adventure-Trip-Planning-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
