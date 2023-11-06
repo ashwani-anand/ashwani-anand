@@ -2,11 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=116836552">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ashwani+Anand, a third-year AIML student with a passion for developing intelligent and interactive systems.;Nice+to+meet+you!&center=true&size=30&colors=%23ffffff,%23000000,&interactivity=true">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;This+is+Ashwani+Anand;AI%2FML+enthusiast+building+a+better+future;one+code+line+at+a+time)](https://git.io/typing-svg)
 
 ## AIML student passionate about developing intelligent and interactive systems  
 
