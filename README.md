@@ -1,6 +1,6 @@
 # Hi there, I'm Ashwani Annad - aka ashulute <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=#116836552">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=116836552">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
