@@ -1,10 +1,8 @@
-# Hi there, I'm Ashwani Annad - aka ashulute <img width="20px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=116836552">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;This+is+Ashwani+Anand.;AI%2FML+enthusiast;building+a+better+future;one+code+line+at+a+time)](https://git.io/typing-svg)
 
-## AIML student passionate about developing intelligent and interactive systems  
+# AIML student passionate about developing intelligent and interactive systems  
 
 - Currently learning Python and DSA 🐍 💻
 - Working on DSA and a little bit of competitive coding 🏆
