@@ -23,28 +23,6 @@ I'm a passionate machine learning enthusiast and creative coder who crafts innov
 </p>
 
 
-### Badges
-<div ng-controller="GenericHackerRankController" data-method='badges' data-ignoreoffset='true'>
-
-   <span ng-show="!data.models.length">This user doesn't have badges yet.</span>
-
-   <div ng-repeat="badge in data.models">
-
-   <img class="hrBadgeImage" ng-src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/{{badge.image_url}}" title='{{badge.name}} badge'/>
-
-   <div class="hrBadgeContent">
-            <span>{{badge.name}}</span>
-            <span class="hrBadgeLevel">level {{badge.level}}</span>
-
-   <div class='hrBadgeProgress' title='{{badge.percentile}}th percentile'>
-                <div class="hrBadgeProgressBar" style='width:{{badge.percentile}}%'></div>
-            </div>
-        </div>
-    </div>
-
-</div>
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/itsashwanianand" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ashwanianandofficialpage" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
