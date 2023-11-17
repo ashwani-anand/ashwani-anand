@@ -24,7 +24,25 @@ I'm a passionate machine learning enthusiast and creative coder who crafts innov
 
 
 ### Badges
-<iframe src="https://hackerrank-badge.herokuapp.com/itsashwanianand?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
+<div ng-controller="GenericHackerRankController" data-method='badges' data-ignoreoffset='true'>
+
+   <span ng-show="!data.models.length">This user doesn't have badges yet.</span>
+
+   <div ng-repeat="badge in data.models">
+
+   <img class="hrBadgeImage" ng-src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/{{badge.image_url}}" title='{{badge.name}} badge'/>
+
+   <div class="hrBadgeContent">
+            <span>{{badge.name}}</span>
+            <span class="hrBadgeLevel">level {{badge.level}}</span>
+
+   <div class='hrBadgeProgress' title='{{badge.percentile}}th percentile'>
+                <div class="hrBadgeProgressBar" style='width:{{badge.percentile}}%'></div>
+            </div>
+        </div>
+    </div>
+
+</div>
 
 
 ### Socials
