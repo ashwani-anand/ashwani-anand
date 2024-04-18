@@ -1,10 +1,3 @@
-<!-- Add a dynamic animated header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD5y9Y9mkt8z3fK/giphy.gif" alt="Hello! Welcome!" width="400"/>
-</p>
-
----
-
 <!-- Introduction Section -->
 ## 👋 Welcome to My GitHub! 
 
@@ -22,12 +15,6 @@ Through this repository, I invite you to join me on a journey of exploration and
 
 <!-- Skills Section with animated icons -->
 ## 🛠️ Skills
-
-<p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Skills" width="400"/>
-</p>
-
-
 <!-- Add your skills with respective animated icons -->
 <p align="left">
   <!-- Skills icons from the original README -->
