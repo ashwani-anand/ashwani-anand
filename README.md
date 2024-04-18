@@ -40,8 +40,7 @@ Through this repository, I invite you to join me on a journey of exploration and
 </p>
 
 ---
-
 <!-- Footer Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD5y9Y9mkt8z3fK/giphy.gif" alt="Thanks for Visiting!" width="300"/>
-</p>
+## ⭐️ From [itsashwanianand](https://github.com/itsashwanianand)
+
+---
