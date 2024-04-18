@@ -15,13 +15,14 @@ Through this repository, I invite you to join me on a journey of exploration and
 
 <!-- Skills Section with animated icons -->
 ## 🛠️ Skills
-<!-- Add your skills with respective animated icons -->
+
 <p align="left">
-  <!-- Skills icons from the original README -->
+  <!-- Skills icons -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /> C
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /> Git
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /> Java
-  <!-- Add more skills here -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> Python
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> MySQL
 </p>
 
 ---
