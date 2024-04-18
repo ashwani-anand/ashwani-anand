@@ -6,7 +6,7 @@
 ---
 
 <!-- Introduction Section -->
-## 👋 Welcome to My AI/ML Playground! 
+## 👋 Welcome to My GitHub! 
 
 Hey there! I'm Ashwani, and I'm thrilled to have you here. This is my creative space where I blend my passion for machine learning with artistic expression. 
 
@@ -27,14 +27,13 @@ Through this repository, I invite you to join me on a journey of exploration and
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Skills" width="400"/>
 </p>
 
+
 <!-- Add your skills with respective animated icons -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50" height="50" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" height="50" alt="PyTorch" title="PyTorch" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="50" height="50" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" title="CSS3" />
+<p align="left">
+  <!-- Skills icons from the original README -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /> C
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /> Git
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /> Java
   <!-- Add more skills here -->
 </p>
 
@@ -45,10 +44,10 @@ Through this repository, I invite you to join me on a journey of exploration and
 
 <p align="center">
   <a href="https://www.github.com/itsashwanianand" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="GitHub" width="100"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32"/>
   </a>
   <a href="https://www.linkedin.com/in/ashwanianandofficialpage" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/XGjeyciglGHOCcIroW/giphy.gif" alt="LinkedIn" width="100"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32"/>
   </a>
 </p>
 
