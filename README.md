@@ -34,9 +34,9 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
 
 ##  Connect with Me
 
-<p align="center">
-  <a href="https://github.com/ashwani-anand" target="_blank" rel="noreferrer">
-    <i class="fa-brands fa-github"></i> GitHub
-  </a>
-  <a href="https://www.linkedin.com/in/ashwani-anand" target="_blank" rel="noreferrer">
-    <i class="fa-brands fa-linkedin"></i>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+<i class="ci ci-github ci-2x"></i>
+<i class="ci ci-linkedin ci-2x"></i>
