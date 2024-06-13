@@ -39,5 +39,4 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
     <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="32" height="32"/>
   </a>
   &nbsp;
-  [GitHub](https://github.com/ashwani-anand)
 </div>
