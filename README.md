@@ -18,20 +18,17 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
 
 ## ️ Skills in Action!
 
-**(Hover over the icons to see a short description of each skill! - Limited markdown functionality)**
 
-<p align="left">
-  <a href="#" title="C Programming"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> C
-  <a href="#" title="Git Version Control"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="#" title="Java Programming"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> Python
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/themes/db4/img/logo.svg" width="36" height="36" alt="MySQL" /></a> MySQL
-  <a href="#" title="TensorFlow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> TensorFlow
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/img/pytorch-logo.png" width="36" height="36" alt="PyTorch" /></a> PyTorch
-  <a href="#" title="AWS Cloud"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a> AWS
-  <a href="#" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> Docker
-  <a href="#" title="Pandas & NumPy"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas & NumPy" /></a> Pandas & NumPy
-</p>
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+</div>
 
 ---
 
@@ -39,7 +36,7 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
 
 <p align="center">
   <a href="https://github.com/ashwani-anand" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32"/> GitHub
+    <i class="fa-brands fa-github"></i> GitHub
   </a>
   <a href="https://www.linkedin.com/in/ashwani-anand" target="_blank" rel="noreferrer">
-    <img src="https://www.linkedin.com/in/ashwani-anand/
+    <i class="fa-brands fa-linkedin"></i>
