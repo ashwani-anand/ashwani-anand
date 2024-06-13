@@ -22,12 +22,12 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
 
 <p align="left">
   <a href="#" title="C Programming"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> C
-  <a href="#" title="Git Version Control"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> Git
-  <a href="#" title="Java Programming"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> Java
+  <a href="#" title="Git Version Control"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+  <a href="#" title="Java Programming"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> Python
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> MySQL
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/themes/db4/img/logo.svg" width="36" height="36" alt="MySQL" /></a> MySQL
   <a href="#" title="TensorFlow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> TensorFlow
-  <a href="#" title="PyTorch"><img src="https://https://pytorch.org/assets/img/pytorch-logo.png" width="36" height="36" alt="PyTorch" /></a> PyTorch
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/img/pytorch-logo.png" width="36" height="36" alt="PyTorch" /></a> PyTorch
   <a href="#" title="AWS Cloud"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a> AWS
   <a href="#" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> Docker
   <a href="#" title="Pandas & NumPy"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas & NumPy" /></a> Pandas & NumPy
@@ -42,4 +42,4 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32"/> GitHub
   </a>
   <a href="https://www.linkedin.com/in/ashwani-anand" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney
+    <img src="https://www.linkedin.com/in/ashwani-anand/
