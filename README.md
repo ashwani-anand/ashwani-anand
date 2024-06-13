@@ -36,10 +36,8 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ashwani-anand" target="_blank" rel="noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="32" height="32"/> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="32" height="32"/>
   </a>
   &nbsp;
-  <a href="https://github.com/ashwani-anand" target="_blank" rel="noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="GitHub" width="32" height="32"/> GitHub
-  </a>
+  [GitHub](https://github.com/ashwani-anand)
 </div>
