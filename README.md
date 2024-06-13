@@ -35,7 +35,11 @@ Whether you're a seasoned AI expert or just starting your journey, I welcome col
 ##  Connect with Me
 
 <div align="center">
-  [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashwani-anand)
+  <a href="https://www.linkedin.com/in/ashwani-anand" target="_blank" rel="noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="32" height="32"/> LinkedIn
+  </a>
   &nbsp;
-  [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/ashwani-anand)
+  <a href="https://github.com/ashwani-anand" target="_blank" rel="noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="GitHub" width="32" height="32"/> GitHub
+  </a>
 </div>
