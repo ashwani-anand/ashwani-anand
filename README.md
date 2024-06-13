@@ -31,16 +31,16 @@ Through this repository, I invite you to join me on a journey of exploration and
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.github.com/itsashwanianand" target="_blank" rel="noreferrer">
+  <a href="github.com/ashwani-anand" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32"/>
   </a>
-  <a href="https://www.linkedin.com/in/ashwanianandofficialpage" target="_blank" rel="noreferrer">
+  <a href="linkedin.com/in/ashwani-anand" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32"/>
   </a>
 </p>
 
 ---
 <!-- Footer Section -->
-## ⭐️ From [itsashwanianand](https://github.com/itsashwanianand)
+## ⭐️ From [ashwani-anand](github.com/ashwani-anand)
 
 ---
