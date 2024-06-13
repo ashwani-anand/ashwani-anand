@@ -1,46 +1,45 @@
-<!-- Introduction Section -->
-## 👋 Welcome to My GitHub! 
+##  Welcome to My GitHub!
 
-Hey there! I'm Ashwani, and I'm thrilled to have you here. This is my creative space where I blend my passion for machine learning with artistic expression. 
+Hey there! I'm Ashwani, and I'm thrilled to have you here. This is my creative space where I blend my passion for machine learning with artistic expression.
 
-Through this repository, I invite you to join me on a journey of exploration and discovery in the captivating world of AI and ML.
+Think of this repository as an immersive AI art gallery! Explore my projects, discover what's possible with AI, and let your imagination run wild.
 
-🚀 **What to Expect:** You'll find a collection of projects where I experiment with various machine learning algorithms, explore novel datasets, and push the boundaries of what's possible with AI.
+ **What Awaits You:**
 
-🎨 **Crafting with Passion:** Drawing from my background in theatrical acting and mobile photography, I infuse each project with unique perspectives and creativity, aiming to create experiences that are not only technically impressive but also emotionally engaging.
+* A collection of projects experimenting with various machine learning algorithms.
+* Exploration of novel datasets, pushing the boundaries of AI.
+* Projects infused with creativity, aiming for both technical and emotional impact.
 
-🤝 **Let's Collaborate:** Whether you're a seasoned AI expert or just starting your journey, I welcome collaboration and feedback. Let's learn from each other and push the boundaries of AI together!
+ **Collaboration is Key:**
+
+Whether you're a seasoned AI expert or just starting your journey, I welcome collaboration and feedback. Let's learn from each other and push the boundaries of AI together!
 
 ---
 
-<!-- Skills Section with animated icons -->
-## 🛠️ Skills
+## ️ Skills in Action!
+
+**(Hover over the icons to see a short description of each skill! - Limited markdown functionality)**
 
 <p align="left">
-  <!-- Skills icons -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /> C
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /> Git
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /> Java
+  <a href="#" title="C Programming"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> C
+  <a href="#" title="Git Version Control"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> Git
+  <a href="#" title="Java Programming"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> Java
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> Python
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> MySQL
+  <a href="#" title="TensorFlow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a> TensorFlow
+  <a href="#" title="PyTorch"><img src="https://https://pytorch.org/assets/img/pytorch-logo.png" width="36" height="36" alt="PyTorch" /></a> PyTorch
+  <a href="#" title="AWS Cloud"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a> AWS
+  <a href="#" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> Docker
+  <a href="#" title="Pandas & NumPy"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas & NumPy" /></a> Pandas & NumPy
 </p>
 
 ---
 
-<!-- Social Media Section -->
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
-  <a href="(https://github.com/ashwani-anand)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32"/>
+  <a href="https://github.com/ashwani-anand" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32"/> GitHub
   </a>
-  <a href="(https://www.linkedin.com/in/ashwani-anand)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32"/>
-  </a>
-</p>
-
----
-<!-- Footer Section -->
-## ⭐️ From [ashwani-anand](https://github.com/ashwani-anand)
-
----
+  <a href="https://www.linkedin.com/in/ashwani-anand" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney
